@@ -37,7 +37,7 @@
    Méthode et outils: Agil, MS Project, Scrum.
    Projet: Déterminer Les Diagrammes De Pert Et De Gant (MS Project).
 - Les Mathématiques: Méthaheuristique, Statistique, Analyse Numérique, Analyse Des Données.
-- Projet: 
+- Projet:\
    Projet Fin D'étude Licence:\
    Gestion De Stockage Des Conteneurs Dans Un Parc Maritime En Utilisant Les Méthaheuristiques(Génétique) Et Tout Le Projet Est Travaillé Avec Java.
    \
