@@ -1,7 +1,7 @@
-### Salut, Je suis Mellissa 👋
+### Hi, I'm Mellissa 👋
 ![](https://geekflare.com/wp-content/uploads/2021/02/adding-comments-in-code-1200x385.jpg)
 
-### Je Suis Étudiante En Big Data Analytics !!
+### 💼 Business Intelligence Engineer  
 
 - 🌱 Actuellement j'apprends tout 🤣
 - 👯 Je cherche à collaborer avec d'autres créateurs de contenu
