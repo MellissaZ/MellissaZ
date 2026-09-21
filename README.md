@@ -11,7 +11,7 @@ My goal is to transform complex data into reliable insights, meaningful KPIs, an
 ### 🛠️ Tech Stack
 
 🧰 Tech Stack
-Business Intelligence
+-Business Intelligence
 Power BI
 SSAS
 SSRS
