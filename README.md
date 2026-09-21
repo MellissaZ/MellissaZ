@@ -6,11 +6,24 @@
 I specialize in Business Intelligence, Data Warehousing,
 ETL and Data Visualization.
 
-- 🌱 Actuellement j'apprends tout 🤣
-- 👯 Je cherche à collaborer avec d'autres créateurs de contenu
-- 🥅 Objectifs : Contribuer dans projets Open Source
-- ⚡ J'adore la lecture, faire du sport (Judo) et voyager pour découverir d'autres cultures
+### 🛠️ Tech Stack
 
+- SQL Server
+- SSIS
+- SSAS
+- SSRS
+- Power BI
+- DAX
+- MDX
+- SQL
+- Python
+
+### 📊 Featured Projects
+
+🔹 BI Sales Analytics
+🔹 Data Warehouse with SQL Server
+🔹 SSIS ETL Pipeline
+🔹 Employment Analytics
 
 
 ### Langages Et Outils
