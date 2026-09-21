@@ -15,14 +15,16 @@ My goal is to transform complex data into reliable insights, meaningful KPIs, an
 Business Intelligence
 
 Power BI
-
 SSAS
 
 SSRS
 
 DAX
+
 MDX
+
 Data Visualization
+
 KPI Design & Reporting
 
 Data Engineering
