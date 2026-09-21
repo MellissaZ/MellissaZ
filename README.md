@@ -3,6 +3,9 @@
 
 ### 💼 Business Intelligence Engineer  
 
+I specialize in Business Intelligence, Data Warehousing,
+ETL and Data Visualization.
+
 - 🌱 Actuellement j'apprends tout 🤣
 - 👯 Je cherche à collaborer avec d'autres créateurs de contenu
 - 🥅 Objectifs : Contribuer dans projets Open Source
