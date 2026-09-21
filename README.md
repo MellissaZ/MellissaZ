@@ -13,9 +13,13 @@ My goal is to transform complex data into reliable insights, meaningful KPIs, an
 🧰 Tech Stack
 
 Business Intelligence
+
 Power BI
+
 SSAS
+
 SSRS
+
 DAX
 MDX
 Data Visualization
