@@ -229,21 +229,6 @@ I enjoy turning raw data into structured information, reliable KPIs, and clear v
 <br />
 <br />
 
----
-💡 My BI Philosophy
-
-Good decisions start with good data.
-
-I enjoy turning raw data into structured information, reliable KPIs, and clear visual insights that help organizations make better decisions.
-
-📫 Let's Connect
-<p align="left">
-
-[<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>][linkedin][<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>][instagram]
-
-</p>
-
-
 
 [instagram]: https://www.instagram.com/melani_tech/?hl=fr
 [linkedin]: https://www.linkedin.com/in/mellissa-misraoui-427719180/
